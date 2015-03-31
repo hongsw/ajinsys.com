@@ -25,26 +25,26 @@
 https://www.youtube.com/watch?v=w-Ng5muAAcg
  
 ## 지원방법
-아래 공개질문에 답변을 ajinsys@ajinsys.com 메일을 보내주세요.
-제목 : [입사지원] 홍길동
-내용 :
-1. 개인적인 꿈은?
-2. 나를 만든 가장 중요한 사건은?
-3. 아진시스템으로 부터 얻고자 하는 것은?
-4. 아진시스템에서 기여하고자 하는 부분과 부합되는 자신의 능력을 소개해주세요(개발,문화,생활,습관,지식, 모든 분야)
+- 아래 공개질문에 답변을 ajinsys@ajinsys.com 메일을 보내주세요.
+- 제목 : [입사지원] 홍길동
+- 내용 :
+- 1. 개인적인 꿈은?
+- 2. 나를 만든 가장 중요한 사건은?
+- 3. 아진시스템으로 부터 얻고자 하는 것은?
+- 4. 아진시스템에서 기여하고자 하는 부분과 부합되는 자신의 능력을 소개해주세요(개발,문화,생활,습관,지식, 모든 분야)
 
 ## 사용기술들
-언어	PHP, javascript, Python, Java(Play!framework), HTML, CSS
-운영체제	Linux(Centos)
-프레임워크Wordpress, php, Node.js, bootstrap, jquery, Backbone.js, javascript MVC
-Database	MySQL, Memcached, MongDB
-기타	웹서버(Apache, nginx)
+- 언어	PHP, javascript, Python, Java(Play!framework), HTML, CSS
+- 운영체제	Linux(Centos)
+- 프레임워크Wordpress, php, Node.js, bootstrap, jquery, Backbone.js, javascript MVC
+- Database	MySQL, Memcached, MongDB
+- 기타	웹서버(Apache, nginx)
 
 ## 서비스 
-워드프레스 전용 호스팅 서비스(KT Cloud Biz)
-워드프레스 플러그인 마켓플레이스
-워드프레스 플러그인 Activation & Auto Update
-워드프레스 커스텀 시스템 구축 for IT Startup
+- 워드프레스 전용 호스팅 서비스(KT Cloud Biz)
+- 워드프레스 플러그인 마켓플레이스
+- 워드프레스 플러그인 Activation & Auto Update
+- 워드프레스 커스텀 시스템 구축 for IT Startup
 
 ## 개발방법론 & 스타트업
-에자일, 린스타트업, 페어프로그래밍
+- 에자일, 린스타트업, 페어프로그래밍
